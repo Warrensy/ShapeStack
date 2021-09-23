@@ -1,0 +1,7 @@
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\bin\Debug\ShapeLibrary.exe.config
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\bin\Debug\ShapeLibrary.exe
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\bin\Debug\ShapeLibrary.pdb
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\obj\Debug\ShapeLibrary.csproj.AssemblyReference.cache
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\obj\Debug\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\obj\Debug\ShapeLibrary.exe
+C:\Users\Dorian\source\repos\SweShapeStack\ShapeLibrary\ShapeLibrary\obj\Debug\ShapeLibrary.pdb
